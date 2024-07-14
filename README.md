@@ -1,1 +1,1 @@
-Chatapplication in progress
+ChatSphere is a real-time chat application designed to facilitate seamless communication with friends, family, and colleagues. Developed with a robust tech stack, including JavaScript, Ajax, PHP, CSS, HTML etc. ChatSphere offers a variety of features to enhance user interaction and experience.
